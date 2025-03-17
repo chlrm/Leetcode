@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chlrm/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0605-can-place-flowers](https://github.com/chlrm/Leetcode/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chlrm/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/chlrm/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
