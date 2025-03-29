@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/chlrm/Leetcode/tree/master/0605-can-place-flowers) |
+| [3195-separate-black-and-white-balls](https://github.com/chlrm/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chlrm/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chlrm/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3195-separate-black-and-white-balls](https://github.com/chlrm/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/chlrm/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chlrm/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3195-separate-black-and-white-balls](https://github.com/chlrm/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
 | ------- |
