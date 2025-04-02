@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chlrm/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chlrm/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0162-find-peak-element](https://github.com/chlrm/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/chlrm/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/chlrm/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chlrm/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chlrm/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/chlrm/Leetcode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chlrm/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/chlrm/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
