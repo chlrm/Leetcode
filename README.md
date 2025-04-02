@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chlrm/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chlrm/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0198-house-robber](https://github.com/chlrm/Leetcode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chlrm/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/chlrm/Leetcode/tree/master/0605-can-place-flowers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/chlrm/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -80,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/chlrm/Leetcode/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/chlrm/Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
