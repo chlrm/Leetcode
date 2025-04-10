@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/chlrm/Leetcode/tree/master/0216-combination-sum-iii) |
+## Math
+|  |
+| ------- |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/chlrm/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
