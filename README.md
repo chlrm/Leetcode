@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/chlrm/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3830-find-closest-person](https://github.com/chlrm/Leetcode/tree/master/3830-find-closest-person) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/chlrm/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
