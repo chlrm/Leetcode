@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/chlrm/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/chlrm/Leetcode/tree/master/0197-rising-temperature) |
+| [1625-group-sold-products-by-the-date](https://github.com/chlrm/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/chlrm/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/chlrm/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
