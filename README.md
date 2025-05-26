@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chlrm/Leetcode/tree/master/0029-divide-two-integers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/chlrm/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3830-find-closest-person](https://github.com/chlrm/Leetcode/tree/master/3830-find-closest-person) |
 ## Database
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/chlrm/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/chlrm/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/chlrm/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/chlrm/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
